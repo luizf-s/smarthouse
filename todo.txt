@@ -1,0 +1,28 @@
+[ ] Inverter dependência do socket no servidor
+[ ] Estruturar controladores do cliente e do servidor
+[✔] Fazer view no mobile
+[✔] Integrar view com dados
+[ ] Fazer ações (ligar/desligar luz e ar; atualizar info geladeira)
+
+[ ] Atualizar status de conexão quando o servidor cair
+[ ] Formatação/estilização:
+    Card Geladeira
+
+[✔] Atualização cômodo
+    [✔] Temperatura
+    [✔] Luminosidade
+    [✔] Ligado/desligado
+[✔] Modal de atualização
+    [✔] Item geladeira
+    [✔] Setpoint cômodo
+        [✔] Temperatura
+        [✔] Luminosidade
+[✔] Modal de atualização - comunicação com servidor
+    [✔] Item geladeira
+    [✔] Setpoint cômodo
+        [✔] Temperatura
+        [✔] Luminosidade
+[✔] Informar cliente da mudança
+    [✔] Temperatura
+    [✔] Luminosidade
+    [✔] Ligado/desligado

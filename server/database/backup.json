@@ -1,0 +1,75 @@
+{
+    "geladeira": {
+        "nivelAgua": 10.0,
+        "comidas": [
+            {
+                "nome": "Jiló",
+                "quantidade": "4 unidades"
+            },
+            {
+                "nome": "Frango com quiabo",
+                "quantidade": "3 pratos"
+            },
+            {
+                "nome": "Panquecas",
+                "quantidade": "10 unidades"
+            },
+            {
+                "nome": "Feijão tropeiro",
+                "quantidade": "0,75 kg"
+            },
+            {
+                "nome": "Pão",
+                "quantidade": "7 unidades"
+            },
+            {
+                "nome": "Suco",
+                "quantidade": "2 L"
+            }
+        ]
+    },
+    "comodos": [
+        {
+            "id": 1,
+            "nome": "Sala de estar",
+            "clima": {
+                "temperatura": 25.0,
+                "setpoint": 25.0,
+                "ligado": false
+            },
+            "iluminacao": {
+                "lumens": 15,
+                "setpoint": 25.0,
+                "ligado": false
+            }
+        },
+        {
+            "id": 2,
+            "nome": "Cozinha",
+            "clima": {
+                "temperatura": 25.0,
+                "setpoint": 25.0,
+                "ligado": false
+            },
+            "iluminacao": {
+                "lumens": 15,
+                "setpoint": 25.0,
+                "ligado": false
+            }
+        },
+        {
+            "id": 3,
+            "nome": "Corredor",
+            "clima": {
+                "temperatura": 25.0,
+                "setpoint": 25.0,
+                "ligado": false
+            },
+            "iluminacao": {
+                "lumens": 15,
+                "setpoint": 25.0,
+                "ligado": false
+            }
+        }
+    ]
+}

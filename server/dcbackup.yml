@@ -1,0 +1,16 @@
+version: "3"
+services:
+    smarthouseserver:
+        build: .
+        ports:
+            - 8000:8000
+            - 1883:1883
+        volumes:
+            - .:/app
+    database:
+        image: mysql
+        environment:
+            MYSQL_ROOT_PASSWORD: password1234
+        ports:
+            - 3306:3306
+            - 33060:33060

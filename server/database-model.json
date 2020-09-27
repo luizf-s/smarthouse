@@ -1,0 +1,23 @@
+{
+    "geladeira": {
+        "nivelAgua": 0.0,
+        "comidas": [
+            {
+                "nome": "comidanome",
+                "quantidade": "4 unidades"
+            }
+        ]
+    },
+    "comodos": [
+        {
+            "nome": "nomecomodo",
+            "clima": {
+                "temperatura": 25.0,
+                "temperaturaDesejada": 25.0
+            },
+            "iluminacao": {
+                "lumens": 15
+            }
+        }
+    ]
+}
