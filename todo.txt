@@ -26,3 +26,7 @@
     [✔] Temperatura
     [✔] Luminosidade
     [✔] Ligado/desligado
+
+SERVIDOR
+[ ] Renomear src para server
+[ ] Organizar módulos e pacotes
