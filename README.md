@@ -8,4 +8,4 @@ Pode ser visto um passo a passo de como escrever esse projeto no instructables:
 
 Ou no Markdown nesse repositorio (preferível ler por aqui):
 
-[Markdown](https://github.com/LuizFelipeCSalgado/smarthouse/instructables.md)
+[Markdown](https://github.com/LuizFelipeCSalgado/smarthouse/blob/master/instructables.md)
