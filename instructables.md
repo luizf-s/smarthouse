@@ -379,6 +379,7 @@ Também ainda não foram escritas as funções utilizadas pelos elementos de int
 Portanto, se desejar testar os elementos com dados falsos, escreva cada objeto e função dito acima.
 
 ```javascript
+// App.js
 export default function App() {
     const [connectionStatus, setConnectionStatus] = useState("Sem conexão");
     const [data, dispatchGeneralState] = useReducer(setDataReducer, INITIAL_STATE);
