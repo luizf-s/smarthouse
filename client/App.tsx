@@ -260,7 +260,6 @@ const toggleLightForRoom = (socket) => (roomId) => socket.emit(
 
 export default function App() {
     const [connectionStatus, setConnectionStatus] = useState<string>("Sem conexão");
-    // TODO: criar estado inicial, corrigir generic
     const [data, dispatchGeneralState] = useReducer<Data>(setDataReducer, INITIAL_STATE);
     const [foodModal, dispatchFoodModal] = useReducer(setFoodReducer, INITIAL_FOOD_MODAL);
     const [temperatureModal, dispatchTemperatureModal] = useReducer(setTemperatureReducer, INITIAL_TEMPERATURE_MODAL);
